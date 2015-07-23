@@ -3,7 +3,7 @@
 By:
 
 * [David Meza](https://github.com/david-meza/)
-* [Hi](https://github.com/)
+* [Olga Ayvazyan](https://github.com/ayva)
 
 Assignment part of [Viking Code School](http://www.vikingcodeschool.com/) curriculum
 
